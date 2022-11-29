@@ -1,0 +1,23 @@
+{
+  "name": "leguchi/airtable-use",
+  "timeout": 10000,
+  "connector": false,
+  "env": [
+    {
+      "name": "RESULT_FIELD",
+      "description": "The field you'd like to get the result of."
+    },
+    {
+      "name": "TABLE_NAME",
+      "description": "The table name. Found on the left of the \"+\" button. The first table's default is \"Table 1\"."
+    },
+    {
+      "name": "WHERE_FIELD",
+      "description": "The field name used for the \"where\" parameter. In this case, the \"where\" parameter is checking whether the field's value is greater than a certain number."
+    },
+    {
+      "name": "WHERE_VALUE",
+      "description": "The number the value of the WHERE_FIELD must be greater than."
+    }
+  ]
+}
