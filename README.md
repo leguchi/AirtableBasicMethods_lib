@@ -1,5 +1,8 @@
 # Airtable Basic Methods
 
+## Introduction
+This build is using [`lib`](https://www.npmjs.com/package/lib), which is an npm package for easily accessing API's listed [here](https://autocode.com/lib/). If you'd like to work on this locally rather than on [Autocode](https://autocode.com/), read [the docs](https://docs.autocode.com/online-ide/can-i-work-locally/)
+
 ## Prerequisites
 You will need:
 - Basic understanding of what Autocode is, and how it works. [Click here](https://autocode.com/guides/how-to-build-a-discord-bot/) to get verified when joining the Autocode Developers Discord server, and/or if you'd rather not touch or smell Discord, check out the docs [here](https://docs.autocode.com/introduction-to-autocode/what-is-autocode/).
